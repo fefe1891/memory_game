@@ -35,7 +35,7 @@ h3 {
     padding: 10px 20px;
     width: 200px;
     position: absolute;
-    background-color: cyan;
+    background-color: #fffb00;
 }
 #restart-button {
     font-size: 20px;
@@ -44,7 +44,7 @@ h3 {
     padding: 10px 20px;
     width: 200px;
     position: absolute;
-    background: cyan;
+    background: #fffb00;
 }
 #lowestScore {
     position: absolute;
